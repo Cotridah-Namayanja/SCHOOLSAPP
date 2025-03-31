@@ -25,7 +25,7 @@
     </div>
 
     <div class="row g-2">
-        @foreach($schools as $school)
+        @foreach($allschools as $school)
         <div class="col col-3 card mx-auto g-4">
             <!-- <div class="card-header">
             Featured
